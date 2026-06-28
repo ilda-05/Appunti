@@ -1,0 +1,22 @@
+{
+  "collapse-filter": false,
+  "search": "-file:.excalidraw ",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.4727130977131,
+  "lineSizeMultiplier": 3.14339916839917,
+  "collapse-forces": false,
+  "centerStrength": 0.521309771309771,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.9999999999999993,
+  "close": true
+}
