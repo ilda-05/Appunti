@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fisica/Resistività.md",
+                "file": "Matematica/Esponenziali.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Resistività"
+              "title": "Esponenziali"
             }
           }
         ]
@@ -186,12 +186,21 @@
   },
   "active": "b01c529982cae89b",
   "lastOpenFiles": [
-    "Fisica/Resistenza ( Prima legge di Ohm ).md",
-    "Fisica/Resistività.md",
+    "Fisica/Energia Cinetica.md",
+    "Matematica/Esponenziali.md",
+    "Fisica/Accelerazione.md",
+    "Fisica/Carica elettrica.md",
+    "Fisica/Densità di corrente.md",
+    "Fisica/Corrente elettrica.md",
+    "Fisica/Spinta di archimede.md",
+    "Fisica/Tensione.md",
+    "Fisica/Teorema di Gauss.md",
     "Fisica/Termodinamica.md",
     "Fisica/Velocità.md",
-    "Fisica/Teorema di Gauss.md",
-    "Fisica/Tensione.md",
+    "Fisica/Velocità di deriva.md",
+    "Fisica/Vettori.md",
+    "Fisica/Resistività.md",
+    "Fisica/Resistenza ( Prima legge di Ohm ).md",
     "Fisica/Legge di Gay-Lussac.md",
     "Fisica/Legge di Hooke.md",
     "Fisica/Peso.md",
@@ -201,17 +210,8 @@
     "Fisica/Newton ( Unità di misura ).md",
     "Fisica/Isolamento della variabile.md",
     "Fisica/Gas perfetto ( Gas ideale ).md",
-    "Fisica/Energia Cinetica.md",
     "Fisica/Elettrostatica.md",
-    "Fisica/Corrente elettrica.md",
     "Fisica/Cinematica.md",
-    "Fisica/Calorimetria.md",
-    "Fisica/Carica elettrica.md",
-    "Fisica/Calore.md",
-    "Fisica/Accelerazione.md",
-    "Informatica/Heap (Memoria).md",
-    "Matematica/Dominio di una funzione.md",
-    "Matematica/Equazioni.md",
     "Excalidraw/Matematica",
     "PDF",
     "PDF/bergamini_vettori_biennio.pdf",
